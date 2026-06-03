@@ -120,7 +120,7 @@ This Adidas Sales Dashboard provides a comprehensive view of sales performance a
 and filtering capabilities, it enables efficient business analysis and supports strategic decision-making for improving sales and profitability.
 
 📸 Dashboard Preview
-
+![snapshot](snapshot-1.png)
 
 Adidas Sales Dashboard – Interactive Excel Analytics Project
 Analyzing sales trends, retailer performance, regional distribution, and sales channel contribution using Excel's advanced dashboarding capabilities.
